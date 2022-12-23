@@ -1,0 +1,15 @@
+D:\Downloads\ExamContest\I\bin\Debug\net6.0\I.exe
+D:\Downloads\ExamContest\I\bin\Debug\net6.0\I.deps.json
+D:\Downloads\ExamContest\I\bin\Debug\net6.0\I.runtimeconfig.json
+D:\Downloads\ExamContest\I\bin\Debug\net6.0\I.dll
+D:\Downloads\ExamContest\I\bin\Debug\net6.0\I.pdb
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.csproj.AssemblyReference.cache
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.AssemblyInfoInputs.cache
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.AssemblyInfo.cs
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.csproj.CoreCompileInputs.cache
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.dll
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\refint\I.dll
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.pdb
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\I.genruntimeconfig.cache
+D:\Downloads\ExamContest\I\obj\Debug\net6.0\ref\I.dll
